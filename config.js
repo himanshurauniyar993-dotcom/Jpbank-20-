@@ -3,6 +3,6 @@
 window.JP_CONFIG = {
   SUPABASE_URL: "https://dssxahtpsqiybeeikxvl.supabase.co",
   SUPABASE_ANON_KEY: "sb_publishable_O03eHOlOecEOEsYy-DCEHQ_uf7uRnTh",
-  // Usernames are turned into emails like username@jpbank.app for Supabase sign-in.
-  EMAIL_DOMAIN: "jpbank.app"
+  // Usernames are turned into emails like username@jpbank.jpgov.dedyn.io for Supabase sign-in.
+  EMAIL_DOMAIN: "jpbank.jpgov.dedyn.io"
 };
